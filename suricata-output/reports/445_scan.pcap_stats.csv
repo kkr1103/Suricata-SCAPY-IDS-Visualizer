@@ -1,0 +1,2 @@
+File,Total_Packets,IP,TCP,UDP,ICMP
+445_scan.pcap,21,21,21,0,0

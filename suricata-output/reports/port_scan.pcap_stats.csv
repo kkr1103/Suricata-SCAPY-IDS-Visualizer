@@ -1,0 +1,2 @@
+File,Total_Packets,IP,TCP,UDP,ICMP
+port_scan.pcap,10,10,10,0,0
